@@ -1,13 +1,22 @@
+<h1 align="center">Hi 👋, I'm Vinicius</h1>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=viniCraveiro&label=Profile%20views&color=0e75b6&style=flat" alt="viniCraveiro"/> </p>
+<p align="center">
+- 🌱 I’m currently learning Java
+
+</p>
+
 <div align="center">
-  <a href="https://github.com/viniCraveiro">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniCraveiro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniCraveiro&layout=compact&langs_count=7&theme=dracula"/>
+<a href="https://www.instagram.com/vinicraveiro" target="_blank"><img align="center" alt="Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
+<a href="https://twitter.com/vinicraveiro" target="_blank"><img align="center" alt="Twitter" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/twitter.svg" />
+<a href="https://www.linkedin.com/in/viniciuscraveiro/" target="_blank"><img align="center" alt="LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
 </div>
-<div align="center"> 
-  <a href="https://www.instagram.com/vinicraveiro/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:viniciuscraveiroo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/viniciuscraveiro" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+ ##
+<p align="center">
+<a href="https://github.com/viniCraveiro">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=viniCraveiro&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=viniCraveiro&layout=compact&langs_count=8&theme=algolia"/>
+</a>
  
+ ##
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
