@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vinicius</h1>
+<h1 align="center">Hi 👋, I'm Ash</h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=viniCraveiro&label=Profile%20views&color=0e75b6&style=flat" alt="viniCraveiro"/> </p>
 <p align="center">
 - 🌱 I’m currently learning Java and TypeScript
